@@ -1,0 +1,129 @@
+h1 {
+    text-align: center;
+    color: #392F1E;
+	}
+body {
+     background-color: #725E50;
+	 } 
+
+div.gallery1 {
+  margin: 5px;
+  border: 1px solid #AB948B;
+  float: right;
+  width: 430px;
+}
+
+div.gallery1:hover {
+  border: 1px solid #AB948B;
+}
+
+div.gallery1 img {
+  width: 100%;
+  height: auto;
+}
+
+div.gallery2 {
+  margin: 5px;
+  border: 1px solid #AB948B;
+  float: left;
+  width: 430px;
+}
+
+div.gallery2:hover {
+  border: 1px solid #AB948B;
+}
+
+div.gallery2 img {
+  width: 100%;
+  height: auto;
+}
+
+hr {
+	height: 10px;
+	background-image: linear-gradient(-45deg,
+	transparent,
+	transparent 25%,
+	currentColor 25%,
+	currentColor 50%,
+	transparent 50%,
+	transparent 75%,
+	currentColor 75%);
+	background-size: 10px 10px;
+	width: 1000px;
+}
+
+.line1 {
+	color: #5D392E;
+	position: relative;
+	top: 1px;
+	}
+
+.line2 {
+	color: #8C756A;
+	position: relative;
+	top: 1px;
+	}
+
+.line3 {
+	color: #8C756A;
+	position: relative;
+	top: 1px;
+	}
+
+.line4 {
+	color: #5D392E;
+	position: relative;
+	top: 1px;
+	}
+
+ span.a {
+          float: right;
+          font-size: 130%;
+          font-family: Times New Roman;
+          line-height: 2450%;
+          color: #9F8D7A;
+       } 
+
+mark.a {
+            background-color: #4B3C2D; 
+            color: #9F8D7A;
+            }
+
+span.b {
+          float:left;
+          font-size: 130%;
+          font-family: Times New Roman;
+          line-height: 2450%;
+          color: #A89379;
+       } 
+
+mark.b {
+            background-color: #796956; 
+            color: #A89379;
+            }
+
+span.c {
+          float:right;
+          font-size: 130%;
+          font-family: Times New Roman;
+          line-height: 2450%;
+          color: #928177;
+       } 
+
+mark.c {
+            background-color: #50453E; 
+            color: #928177;
+            }
+
+span.d {
+          float:left;
+          font-size: 130%;
+          font-family: Times New Roman;
+          line-height: 2450%;
+          color: #A88F7B;
+       } 
+
+mark.d {
+            background-color: #7B6656; 
+            color: #A88F7B;
+            }
